@@ -1,0 +1,22 @@
+td,th{
+    padding :10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    margin: 10px;
+    padding-left: 35%;
+}
+body{
+    padding: 25px;
+    text-align: center;
+    justify-content: center;
+}
+#checkout{
+    padding: 10px;
+}
+
+cart > div {
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
